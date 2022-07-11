@@ -10,7 +10,7 @@ public class Operacoes {
         System.out.println(a + " - " + b + " = " + result);
     }
 
-    public static void muiltiply(double a, double b){
+    public static void multiply(double a, double b){
         double result = a * b;
         System.out.println(a + " * " + b + " = " + result);
     }
