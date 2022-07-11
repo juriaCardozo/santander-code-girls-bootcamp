@@ -1,0 +1,2 @@
+public class Loan {
+}
