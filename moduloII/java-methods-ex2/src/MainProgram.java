@@ -22,5 +22,13 @@ public class MainProgram {
         double b2 = sc.nextDouble();
         double h = sc.nextDouble();
         Quadrilatero.area(b1, b2, h);
+
+        System.out.println();
+
+        System.out.println("Insira 2 valores para calcular a área do losango: ");
+        float d1 = sc.nextFloat();
+        float d2 = sc.nextFloat();
+        Quadrilatero.area(d1, d2);
+
     }
 }
