@@ -22,8 +22,11 @@ public class Program {
 
         ////////////////////////////////////
 
-
-
+        System.out.println("Empréstimos: ");
+        System.out.println("Insira um valor para ver as parcelas do empréstimo: ");
+        double value = sc.nextDouble();
+        Loan.calculate(value, Loan.getTwoParcels());
+        Loan.calculate(value, Loan.getThreeParcels());
 
     }
 }
