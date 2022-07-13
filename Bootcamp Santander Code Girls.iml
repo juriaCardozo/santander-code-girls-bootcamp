@@ -7,7 +7,8 @@
       <sourceFolder url="file://$MODULE_DIR$/moduloII/java-methods-ex1/untitled/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/moduloII/java-methods-ex2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/moduloII/java-methods-ex3/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/moduloII/loops-and-arrays/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moduloII/arrays/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moduloII/loops/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
