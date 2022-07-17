@@ -12,6 +12,6 @@ public class Calculadora implements OperacaoMatematica{
     }
 
     public void divisao(double valor1, double valor2){
-        System.out.println("Divis: " + valor1 + valor2);
+        System.out.println("Divisão: " + valor1 + valor2);
     }
 }
