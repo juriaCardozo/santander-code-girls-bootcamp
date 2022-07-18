@@ -28,4 +28,13 @@ public class Curso {
     public void setCargaHoraria(int cargaHoraria) {
         this.cargaHoraria = cargaHoraria;
     }
+
+    @Override
+    public String toString() {
+        return "Curso{" +
+                "titulo='" + titulo + '\'' +
+                ", Descricao='" + Descricao + '\'' +
+                ", cargaHoraria=" + cargaHoraria +
+                '}';
+    }
 }
