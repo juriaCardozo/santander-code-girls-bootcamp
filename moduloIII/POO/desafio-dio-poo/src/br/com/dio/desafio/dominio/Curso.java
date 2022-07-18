@@ -5,6 +5,9 @@ public class Curso {
     private String Descricao;
     private int cargaHoraria;
 
+    public Curso() {
+    }
+
     public String getTitulo() {
         return titulo;
     }
