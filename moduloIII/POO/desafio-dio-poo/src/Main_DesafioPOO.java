@@ -44,7 +44,5 @@ public class Main_DesafioPOO {
         devCamila.progredir();
         System.out.println("Conteudos concluídos" + devCamila.getConteudosConcluidos());
         System.out.println("XP: " + devCamila.calcularTotalXP());
-
-
     }
 }
