@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/moduloIII/POO/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/moduloIII/POO/Ex3 Interface/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/moduloIII/POO/desafio-dio-poo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/moduloIII/java-exceptions/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
