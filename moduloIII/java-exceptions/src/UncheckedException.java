@@ -11,7 +11,9 @@ public class UncheckedException {
         }catch (NumberFormatException e){
             JOptionPane.showMessageDialog(null, "Entrada inválida, informe um número inteiro! " + e.getMessage());
             //e.printStackTrace();
-        }finally {
+        } catch (ArithmeticException e){
+            JOptionPane.showMessageDialog(null, "Impossível divisão por 0! " + e.getMessage());
+        } finally {
             System.out.println("Finally!");
         }
 
