@@ -9,7 +9,7 @@ public class UncheckedException {
             int resultado = dividir(Integer.parseInt(a), Integer.parseInt(b));
             System.out.println("Resultado: " + resultado);
         }catch (NumberFormatException e){
-            JOptionPane.showMessageDialog(null, "Entrada inválida, informe um número inteiro" + e.getMessage());
+            JOptionPane.showMessageDialog(null, "Entrada inválida, informe um número inteiro! " + e.getMessage());
             //e.printStackTrace();
         }finally {
             System.out.println("Finally!");
