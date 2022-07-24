@@ -1,6 +1,6 @@
 public class DivisaoNaoExata extends Exception{
 
-    public DivisaoNaoExata(String message, int numerado, int denominador){
+    public DivisaoNaoExata(String message){
         super(message);
     }
 }
